@@ -170,3 +170,5 @@ frame_idx,timestamp_sec,player_id,shot_type,confidence
 ```
 
 The annotated render is written to `outputs/annotated.mp4`.
+
+![alt text](image.png)

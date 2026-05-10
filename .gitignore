@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ruff_cache/
-
 *.avi
 *.mov
 test1.ipynb
