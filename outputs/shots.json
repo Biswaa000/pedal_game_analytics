@@ -1,0 +1,100 @@
+[
+  {
+    "frame_idx": 191,
+    "timestamp_sec": 7.64,
+    "player_id": 81,
+    "shot_type": "FOREHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 211,
+    "timestamp_sec": 8.44,
+    "player_id": 1,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  },
+  {
+    "frame_idx": 228,
+    "timestamp_sec": 9.12,
+    "player_id": 81,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  },
+  {
+    "frame_idx": 311,
+    "timestamp_sec": 12.44,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 373,
+    "timestamp_sec": 14.92,
+    "player_id": 1,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 588,
+    "timestamp_sec": 23.52,
+    "player_id": 262,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  },
+  {
+    "frame_idx": 603,
+    "timestamp_sec": 24.12,
+    "player_id": 262,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  },
+  {
+    "frame_idx": 1002,
+    "timestamp_sec": 40.08,
+    "player_id": 454,
+    "shot_type": "SMASH/SERVE",
+    "confidence": 0.588
+  },
+  {
+    "frame_idx": 1299,
+    "timestamp_sec": 51.96,
+    "player_id": 440,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1371,
+    "timestamp_sec": 54.84,
+    "player_id": 603,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1378,
+    "timestamp_sec": 55.12,
+    "player_id": 5,
+    "shot_type": "BACKHAND",
+    "confidence": 0.8
+  },
+  {
+    "frame_idx": 1408,
+    "timestamp_sec": 56.32,
+    "player_id": 440,
+    "shot_type": "UNKNOWN",
+    "confidence": 0.175
+  },
+  {
+    "frame_idx": 1497,
+    "timestamp_sec": 59.88,
+    "player_id": 440,
+    "shot_type": "SMASH/SERVE",
+    "confidence": 0.725
+  },
+  {
+    "frame_idx": 1813,
+    "timestamp_sec": 72.52,
+    "player_id": 1156,
+    "shot_type": "SMASH/SERVE",
+    "confidence": 0.8
+  }
+]

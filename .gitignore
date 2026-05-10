@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+data/input/
+data/output/
+*.avi
+*.mov
+test1.ipynb
+models/
+outputs/annotated.mp4
+data/infernce_sample_video.mp4
